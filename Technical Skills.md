@@ -1,5 +1,5 @@
 **Solution Architecture**
-- Medallion
+- Medallion (extract, transform, report)
 - Retrieval-Augmented Generation
 
 **Data Engineering**
